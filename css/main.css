@@ -1,14 +1,12 @@
 .hidden{
     display: none;
 }
-
-@font-face{
-    .roboto-thin {
+  .roboto-thin {
         font-family: "Roboto", sans-serif;
         font-weight: normal;
         font-style: normal;
       }
-}
+
 
 #container{
     width: 430px;
